@@ -20,4 +20,4 @@ You could help us achieve our goal by dropping by and having fun playing a VR ga
 If you're interested, please visit our <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557" target="_blank" rel="noopener noreferrer">meeting poll</a> and simply book the time slot that suits you best. The participation takes place from 17.08.2026 until 28.08.2026.
 
 ## Contact
-In case of any inquiry, we would be happy to answer your questions via email at: [seatloco@mail.uni-paderborn.de](mailto:seatloco@mail.uni-paderborn.de)
+In case of any inquiry, we would be happy to answer your questions via email at: <seatloco@mail.uni-paderborn.de>

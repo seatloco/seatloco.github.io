@@ -1,4 +1,4 @@
-_See English version below_
+<i>See English version below</i>
 # Willkommen bei VR-Serious!
 ### Tauche in die Tiefen ein 🌊
 

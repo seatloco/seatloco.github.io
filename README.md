@@ -1,5 +1,18 @@
 # Welcome to VR-Serious!
-In this study, we aim to investigate the influence of a novel locomotion technique on users in virtual envirnonments as well as educating users about a serious topic through gaming. To do so, we developed <i>"Not So Silent Depths"</i>; a serious virtual reality game, that addresses the harmful effects of underwater noise pollution on marine life.
+### Dive into the Depths 🌊
+
+Help us investigate how different VR locomotion techniques influence usability, presence, and comfort.
+
+🎮 Play a serious VR game  
+🤖 Become an underwater maintenance robot  
+🌊 Help protect marine life from underwater noise pollution
+  
+**Where?** |Location|  
+**When?** 17.08.2026 –> 28.08.2026  
+**How long?** ~60 minutes
+
+### Intro
+This study aims to investigate the influence of a novel locomotion technique on users in virtual envirnonments as well as educating users about a serious topic through gaming. To do so, we developed <i>"Not So Silent Depths"</i>; a serious virtual reality game, that addresses the harmful effects of underwater noise pollution on marine life.
 
 ## Underwater Noise Pollution
 Underwater noise pollution is the introduction of excessive or harmful human-made sound into oceans, seas, and other water bodies. It is mainly caused by activities such as shipping, offshore construction, and naval sonar. This noise can interfere with marine animals' ability to communicate, navigate, find food, and detect predators, potentially affecting their survival and reproduction.</br>

@@ -15,7 +15,7 @@ Hilf uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Be
 ### Einführung
 Diese Studie untersucht den Einfluss einer neuartigen Fortbewegungstechnik auf Nutzerinnen und Nutzer in virtuellen Umgebungen sowie die Vermittlung eines gesellschaftlich relevanten Themas durch ein Serious Game.
 
-Zu diesem Zweck haben wir „Not So Silent Depths“ entwickelt – ein Serious-Virtual-Reality-Spiel, das sich mit den schädlichen Auswirkungen von Unterwasserlärm auf das marine Leben beschäftigt.
+Zu diesem Zweck haben wir _„Not So Silent Depths“_ entwickelt – ein Serious-Virtual-Reality-Spiel, das sich mit den schädlichen Auswirkungen von Unterwasserlärm auf das marine Leben beschäftigt.
 
 ## Unterwasserlärmverschmutzung
 Unterwasserlärmverschmutzung bezeichnet die Einleitung übermäßiger oder schädlicher, vom Menschen verursachter Geräusche in Ozeane, Meere und andere Gewässer. Sie wird hauptsächlich durch Aktivitäten wie Schifffahrt, Offshore-Bauarbeiten und militärisches Sonar verursacht. Dieser Lärm kann die Fähigkeit von Meerestieren beeinträchtigen, miteinander zu kommunizieren, sich zu orientieren, Nahrung zu finden und Raubtiere wahrzunehmen, wodurch ihr Überleben und ihre Fortpflanzung potenziell gefährdet werden.
@@ -73,12 +73,12 @@ Help us investigate how different VR locomotion techniques influence usability, 
 ### Intro
 This study aims to investigate the influence of a novel locomotion technique on users in virtual envirnonments as well as educating users about a serious topic through gaming.
 
-To do so, we developed _"Not So Silent Depths"_; a serious virtual reality game, that addresses the harmful effects of underwater noise pollution on marine life.
+To do so, we developed _„Not So Silent Depths“_; a serious virtual reality game, that addresses the harmful effects of underwater noise pollution on marine life.
 
 ## Underwater Noise Pollution
 Underwater noise pollution is the introduction of excessive or harmful human-made sound into oceans, seas, and other water bodies. It is mainly caused by activities such as shipping, offshore construction, and naval sonar. This noise can interfere with marine animals' ability to communicate, navigate, find food, and detect predators, potentially affecting their survival and reproduction.
 
-In this study, we focus on one mitigation technique against underwater noise pollution, which is "bubble curtains". Bubble curtains reduce underwater noise pollution during activities such as offshore construction and pile driving. They work by pumping air through pipes/hose with small holes on the seabed, creating a curtain of rising bubbles that scatters and absorbs sound waves. This helps lower the amount of noise reaching surrounding marine life, reducing disturbance and the risk of hearing damage.
+In this study, we focus on one mitigation technique against underwater noise pollution, which is „bubble curtains". Bubble curtains reduce underwater noise pollution during activities such as offshore construction and pile driving. They work by pumping air through pipes/hose with small holes on the seabed, creating a curtain of rising bubbles that scatters and absorbs sound waves. This helps lower the amount of noise reaching surrounding marine life, reducing disturbance and the risk of hearing damage.
 
 ## Not So Silent Depths: The Game
 Somewhere in the deep ocean, a bubble curtain, that surrounds a construction site, is not functioning properly. This issue is preventing the air from flowing out and requires maintenance.

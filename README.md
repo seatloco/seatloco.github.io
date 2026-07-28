@@ -1,5 +1,5 @@
 <i>See English version below</i>
-# Willkommen bei VR-Serious!
+# Willkommen bei Not So Silent Depths!
 ### Tauche in die Tiefen ein 🌊
 
 Hilf uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
@@ -57,7 +57,7 @@ Die Teilnahme an der Studie findet vom 17.08.2026 bis zum 28.08.2026 statt.
 Bei Fragen oder weiteren Anliegen stehen wir Ihnen gerne per E-Mail zur Verfügung: <seatloco@mail.uni-paderborn.de>
 
 =======================================
-# Welcome to VR-Serious!
+# Welcome to Not So Silent Depths!
 ### Dive into the Depths 🌊
 
 Help us investigate how different VR locomotion techniques influence usability, presence, and comfort.

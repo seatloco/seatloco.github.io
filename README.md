@@ -1,12 +1,12 @@
 <i>See English version below</i>
 # Willkommen bei Not So Silent Depths!
-### Tauche in die Tiefen ein 🌊
+### Tauchen Sie in die Tiefen ein 🌊
 
-Hilf uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
+Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
 
-🎮 Spiele ein Serious-VR-Spiel  
-🤖 Werde zu einem Unterwasser-Wartungsroboter  
-🌊 Hilf dabei, das Meeresleben vor Unterwasserlärm zu schützen
+🎮 Spielen Sie ein Serious-VR-Spiel  
+🤖 Werden Sie zu einem Unterwasser-Wartungsroboter  
+🌊 Helfen Sie dabei, das virtuelle Meeresleben vor Unterwasserlärm zu schützen
   
 **Wo?** |Location|  
 **Wann?** 17.08.2026 –> 28.08.2026  
@@ -64,7 +64,7 @@ Help us investigate how different VR locomotion techniques influence usability, 
 
 🎮 Play a serious VR game  
 🤖 Become an underwater maintenance robot  
-🌊 Help protect marine life from underwater noise pollution
+🌊 Help protect the virtual marine life from underwater noise pollution
   
 **Where?** |Location|  
 **When?** 17.08.2026 –> 28.08.2026  

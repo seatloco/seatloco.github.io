@@ -8,9 +8,9 @@ Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken 
 🤖 Werden Sie zu einem Unterwasser-Wartungsroboter  
 🌊 Helfen Sie dabei, das virtuelle Meeresleben vor Unterwasserlärm zu schützen
   
-**Wo?** |Location|  
+**Wo?** GamesLab - Raum N5.216  
 **Wann?** 17.08.2026 –> 28.08.2026  
-**Wie lange?** ca. 60 Minuten
+**Wie lange?** ca. 90 Minuten
 
 ### Einführung
 Diese Studie untersucht den Einfluss einer neuartigen Fortbewegungstechnik auf Nutzerinnen und Nutzer in virtuellen Umgebungen sowie die Vermittlung eines gesellschaftlich relevanten Themas durch ein Serious Game.
@@ -47,7 +47,7 @@ Anschließend spielen Sie als der Roboter, dessen Aufgabe es ist, verschiedene H
 
 Nachdem Sie die Aufgabe abgeschlossen haben, werden Sie gebeten, anonym einige Fragebögen auszufüllen. Diese helfen uns dabei, Ihre Erfahrungen hinsichtlich der folgenden Aspekte zu bewerten: **Benutzerfreundlichkeit**, **Präsenzerleben**, **Komfort**, **Arbeitsbelastung** und **Spielerlebnis**.
 
-Die gesamte Teilnahme an dieser Studie wird voraussichtlich etwa eine Stunde dauern.
+Die gesamte Teilnahme an dieser Studie wird voraussichtlich etwa 90 Minuten dauern.
 ### Wie kann ich teilnehmen?
 Wenn Sie Interesse haben, besuchen Sie bitte unsere <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557" target="_blank" rel="noopener noreferrer">Terminabstimmung</a> und buchen Sie einfach den für Sie passenden Zeitraum.
 
@@ -66,9 +66,9 @@ Help us investigate how different VR locomotion techniques influence usability, 
 🤖 Become an underwater maintenance robot  
 🌊 Help protect the virtual marine life from underwater noise pollution
   
-**Where?** |Location|  
+**Where?** GamesLab - Raum N5.216  
 **When?** 17.08.2026 –> 28.08.2026  
-**How long?** ~60 minutes
+**How long?** ~90 minutes
 
 ### Intro
 This study aims to investigate the influence of a novel locomotion technique on users in virtual envirnonments as well as educating users about a serious topic through gaming.
@@ -105,7 +105,7 @@ Then, you will play as the robot, which its mission is to go through several obs
 
 Finally, once you finish the task, you will be asked to fill a number of questionnaires anonymously. This will help us evaluate how your experience went regarding the aspects: **usability**, **presence**, **comfort**, **workload**, and **gaming experience**.
 
-The whole participation for this study is expected to take around one hour to complete.
+The whole participation for this study is expected to take around 90 minutes to complete.
 ### How to Participate?
 If you're interested, please visit our <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557" target="_blank" rel="noopener noreferrer">meeting poll</a> and simply book the time slot that suits you best.
 

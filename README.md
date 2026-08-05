@@ -4,7 +4,7 @@
 
 Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEMmkRKzXVPqfarwC-5zakiHO6oQdkzBGESIotV6n3XfZRCJuEI2dxsY&s=10" width="250" height="200" align="right">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEMmkRKzXVPqfarwC-5zakiHO6oQdkzBGESIotV6n3XfZRCJuEI2dxsY&s=10" width="250" height="200" align="right" style="border-radius: 20%;">
 
 🎮 Spielen Sie ein Serious-VR-Spiel  
 🤖 Werden Sie zu einem Unterwasser-Wartungsroboter  

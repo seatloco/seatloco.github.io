@@ -4,7 +4,7 @@
 
 Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEMmkRKzXVPqfarwC-5zakiHO6oQdkzBGESIotV6n3XfZRCJuEI2dxsY&s=10" height="200" width ="250" align="right" hspace="20">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEMmkRKzXVPqfarwC-5zakiHO6oQdkzBGESIotV6n3XfZRCJuEI2dxsY&s=10" width="250" height="200" align="right">
 
 🎮 Spielen Sie ein Serious-VR-Spiel  
 🤖 Werden Sie zu einem Unterwasser-Wartungsroboter  
@@ -14,11 +14,9 @@ Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken 
 **Wann?** 17.08.2026 –> 28.08.2026  
 **Wie lange?** ca. 90 Minuten
 
-<div align="center">
 <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
   <img src="https://img.shields.io/badge/An Studie teilnehmen-blueviolet" width="350" align="left">
 </a>
-</div>
 
 </br></br></br>
 
@@ -78,11 +76,9 @@ Help us investigate how different VR locomotion techniques influence usability, 
 **When?** 17.08.2026 –> 28.08.2026  
 **How long?** ~90 minutes
 
-<div align="center">
 <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
-  <img src="https://img.shields.io/badge/Join The Study-blueviolet" width="300">
+  <img src="https://img.shields.io/badge/Join The Study-blueviolet" width="300" align="left">
 </a>
-</div>
 
 ### Intro
 This study aims to investigate the influence of a novel locomotion technique on users in virtual environments as well as educating users about a serious topic through gaming. To do so, we developed _„Not So Silent Depths“_; a serious virtual reality game, that addresses the harmful effects of underwater noise pollution on marine life.

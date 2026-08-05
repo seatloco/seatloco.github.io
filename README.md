@@ -4,19 +4,23 @@
 
 Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEMmkRKzXVPqfarwC-5zakiHO6oQdkzBGESIotV6n3XfZRCJuEI2dxsY&s=10" height="200" width ="250" align="right" hspace="20">  
+
 🎮 Spielen Sie ein Serious-VR-Spiel  
 🤖 Werden Sie zu einem Unterwasser-Wartungsroboter  
 🌊 Helfen Sie dabei, das virtuelle Meeresleben vor Unterwasserlärm zu schützen
-  
+
 **Wo?** GamesLab - Raum N5.216  
 **Wann?** 17.08.2026 –> 28.08.2026  
 **Wie lange?** ca. 90 Minuten
 
 <div align="center">
 <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
-  <img src="https://img.shields.io/badge/An Studie teilnehmen-blueviolet" width="350">
+  <img src="https://img.shields.io/badge/An Studie teilnehmen-blueviolet" width="350" align="left">
 </a>
 </div>
+
+</br></br></br>
 
 ### Einführung
 Diese Studie untersucht den Einfluss einer neuartigen Fortbewegungstechnik auf Nutzerinnen und Nutzer in virtuellen Umgebungen sowie die Vermittlung eines gesellschaftlich relevanten Themas durch ein Serious Game. Zu diesem Zweck haben wir _„Not So Silent Depths“_ entwickelt – ein Serious-Virtual-Reality-Spiel, das sich mit den schädlichen Auswirkungen von Unterwasserlärm auf das marine Leben beschäftigt.

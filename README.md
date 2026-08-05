@@ -4,7 +4,7 @@
 
 Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
 
-<img src="https://deiceair.ca/wp-content/uploads/2019/06/deiceair-bubble-tubing-water-aeration-and-deicing.jpg.jpg" width="250" height="200" align="right">
+<img src="https://deiceair.ca/wp-content/uploads/2019/06/deiceair-bubble-tubing-water-aeration-and-deicing.jpg.jpg" width="250" height="200" align="right" style="border-radius: 15px;">
 
 🎮 Spielen Sie ein Serious-VR-Spiel  
 🤖 Werden Sie zu einem Unterwasser-Wartungsroboter  

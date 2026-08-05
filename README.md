@@ -12,10 +12,14 @@ Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken 
 **Wann?** 17.08.2026 –> 28.08.2026  
 **Wie lange?** ca. 90 Minuten
 
-### Einführung
-Diese Studie untersucht den Einfluss einer neuartigen Fortbewegungstechnik auf Nutzerinnen und Nutzer in virtuellen Umgebungen sowie die Vermittlung eines gesellschaftlich relevanten Themas durch ein Serious Game.
+<div align="center">
+<a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
+  <img src="https://img.shields.io/badge/An Studie teilnehmen-purple" width="350">
+</a>
+</div>
 
-Zu diesem Zweck haben wir _„Not So Silent Depths“_ entwickelt – ein Serious-Virtual-Reality-Spiel, das sich mit den schädlichen Auswirkungen von Unterwasserlärm auf das marine Leben beschäftigt.
+### Einführung
+Diese Studie untersucht den Einfluss einer neuartigen Fortbewegungstechnik auf Nutzerinnen und Nutzer in virtuellen Umgebungen sowie die Vermittlung eines gesellschaftlich relevanten Themas durch ein Serious Game. Zu diesem Zweck haben wir _„Not So Silent Depths“_ entwickelt – ein Serious-Virtual-Reality-Spiel, das sich mit den schädlichen Auswirkungen von Unterwasserlärm auf das marine Leben beschäftigt.
 
 ## Unterwasserlärmverschmutzung
 Unterwasserlärmverschmutzung bezeichnet die Einleitung übermäßiger oder schädlicher, vom Menschen verursachter Geräusche in Ozeane, Meere und andere Gewässer. Sie wird hauptsächlich durch Aktivitäten wie Schifffahrt, Offshore-Bauarbeiten und militärisches Sonar verursacht. Dieser Lärm kann die Fähigkeit von Meerestieren beeinträchtigen, miteinander zu kommunizieren, sich zu orientieren, Nahrung zu finden und Raubtiere wahrzunehmen, wodurch ihr Überleben und ihre Fortpflanzung potenziell gefährdet werden.
@@ -70,10 +74,14 @@ Help us investigate how different VR locomotion techniques influence usability, 
 **When?** 17.08.2026 –> 28.08.2026  
 **How long?** ~90 minutes
 
-### Intro
-This study aims to investigate the influence of a novel locomotion technique on users in virtual envirnonments as well as educating users about a serious topic through gaming.
+<div align="center">
+<a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
+  <img src="https://img.shields.io/badge/Join The Study-purple" width="300">
+</a>
+</div>
 
-To do so, we developed _„Not So Silent Depths“_; a serious virtual reality game, that addresses the harmful effects of underwater noise pollution on marine life.
+### Intro
+This study aims to investigate the influence of a novel locomotion technique on users in virtual environments as well as educating users about a serious topic through gaming. To do so, we developed _„Not So Silent Depths“_; a serious virtual reality game, that addresses the harmful effects of underwater noise pollution on marine life.
 
 ## Underwater Noise Pollution
 Underwater noise pollution is the introduction of excessive or harmful human-made sound into oceans, seas, and other water bodies. It is mainly caused by activities such as shipping, offshore construction, and naval sonar. This noise can interfere with marine animals' ability to communicate, navigate, find food, and detect predators, potentially affecting their survival and reproduction.

@@ -4,7 +4,7 @@
 
 Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken die Benutzerfreundlichkeit, das Präsenzerleben und den Komfort beeinflussen.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEMmkRKzXVPqfarwC-5zakiHO6oQdkzBGESIotV6n3XfZRCJuEI2dxsY&s=10" width="250" height="200" align="right" style="border-radius: 20%;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEMmkRKzXVPqfarwC-5zakiHO6oQdkzBGESIotV6n3XfZRCJuEI2dxsY&s=10" width="250" height="200" align="right" style="border-radius: 15px;">
 
 🎮 Spielen Sie ein Serious-VR-Spiel  
 🤖 Werden Sie zu einem Unterwasser-Wartungsroboter  
@@ -18,7 +18,7 @@ Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken 
   <img src="https://img.shields.io/badge/An Studie teilnehmen-blueviolet" width="350" align="left">
 </a>
 
-</br></br></br>
+</br>
 
 ### Einführung
 Diese Studie untersucht den Einfluss einer neuartigen Fortbewegungstechnik auf Nutzerinnen und Nutzer in virtuellen Umgebungen sowie die Vermittlung eines gesellschaftlich relevanten Themas durch ein Serious Game. Zu diesem Zweck haben wir _„Not So Silent Depths“_ entwickelt – ein Serious-Virtual-Reality-Spiel, das sich mit den schädlichen Auswirkungen von Unterwasserlärm auf das marine Leben beschäftigt.

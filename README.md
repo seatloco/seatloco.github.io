@@ -14,7 +14,7 @@ Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken 
 
 <div align="center">
 <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
-  <img src="https://img.shields.io/badge/An Studie teilnehmen-purple" width="350">
+  <img src="https://img.shields.io/badge/An Studie teilnehmen-blueviolet" width="350">
 </a>
 </div>
 
@@ -76,7 +76,7 @@ Help us investigate how different VR locomotion techniques influence usability, 
 
 <div align="center">
 <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
-  <img src="https://img.shields.io/badge/Join The Study-purple" width="300">
+  <img src="https://img.shields.io/badge/Join The Study-blueviolet" width="300">
 </a>
 </div>
 

@@ -11,7 +11,7 @@ Helfen Sie uns dabei zu untersuchen, wie verschiedene VR-Fortbewegungstechniken 
 🌊 Helfen Sie dabei, das virtuelle Meeresleben vor Unterwasserlärm zu schützen
 
 **Wo?** GamesLab - Raum N5.216  
-**Wann?** 17.08.2026 –> 28.08.2026  
+**Wann?** vom 17.08.2026 bis zum 28.08.2026  
 **Wie lange?** ca. 90 Minuten
 
 <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">
@@ -76,7 +76,7 @@ Help us investigate how different VR locomotion techniques influence usability, 
 🌊 Help protect the virtual marine life from underwater noise pollution
   
 **Where?** GamesLab - Raum N5.216  
-**When?** 17.08.2026 –> 28.08.2026  
+**When?** from 17.08.2026 to 28.08.2026  
 **How long?** ~90 minutes
 
 <a href="https://terminplaner6.dfn.de/p/1183858eacb40cabce4fa1f80dddc7e5-1857557">

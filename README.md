@@ -29,7 +29,7 @@ Unterwasserlärmverschmutzung bezeichnet die Einleitung übermäßiger oder sch�
 In dieser Studie konzentrieren wir uns auf eine Maßnahme zur Verringerung von Unterwasserlärmverschmutzung: „Blasenschleier“ (Bubble Curtains). Blasenschleier reduzieren Unterwasserlärm während Aktivitäten wie Offshore-Bauarbeiten und dem Rammen von Pfählen. Dabei wird Luft durch Rohre oder Schläuche mit kleinen Öffnungen am Meeresboden gepumpt, wodurch ein Vorhang aus aufsteigenden Luftblasen entsteht, der Schallwellen streut und absorbiert. Dadurch wird die Menge an Lärm, die das umliegende Meeresleben erreicht, reduziert und somit die Störung sowie das Risiko von Hörschäden verringert.
 
 ## Not So Silent Depths: Das Spiel
-<img src="https://deiceair.ca/wp-content/uploads/2019/06/deiceair-bubble-tubing-water-aeration-and-deicing.jpg.jpg" width="250" height="200" style="float:right; border-radius:10px; padding:0;">
+<img src="hose.jpg" width="250" height="200" style="float:right; border-radius:10px; padding:0;">
 Tief unten im Ozean funktioniert ein Blasenschleier, der eine Baustelle umgibt, nicht ordnungsgemäß. Das Problem verhindert, dass die Luft austreten kann, und macht Wartungsarbeiten erforderlich.
 
 Während das Support-Team auf dem Weg ist, den Fehler zu beheben, gerät es in einen Unfall, wodurch der für diese Mission spezialisierte Roboter in die Tiefen des Ozeans stürzt. Der Roboter ist trotz des Unfalls weiterhin funktionsfähig und muss sich eigenständig zur Baustelle vorarbeiten. Dabei muss er verschiedene Hindernisse überwinden, um seine Aufgabe erfolgreich abzuschließen.
@@ -94,7 +94,7 @@ Underwater noise pollution is the introduction of excessive or harmful human-mad
 In this study, we focus on one mitigation technique against underwater noise pollution, which is „bubble curtains". Bubble curtains reduce underwater noise pollution during activities such as offshore construction and pile driving. They work by pumping air through pipes/hose with small holes on the seabed, creating a curtain of rising bubbles that scatters and absorbs sound waves. This helps lower the amount of noise reaching surrounding marine life, reducing disturbance and the risk of hearing damage.
 
 ## Not So Silent Depths: The Game
-<img src="https://deiceair.ca/wp-content/uploads/2019/06/deiceair-bubble-tubing-water-aeration-and-deicing.jpg.jpg" width="250" height="200" style="float:right; border-radius:10px; padding:0;">
+<img src="hose.jpg" width="250" height="200" style="float:right; border-radius:10px; padding:0;">
 Somewhere in the deep ocean, a bubble curtain, that surrounds a construction site, is not functioning properly. This issue is preventing the air from flowing out and requires maintenance.
 
 As the support team are on their way to fix the problem, they get into an accident, and the specialized robot they had for this mission falls into the deep ocean. The robot still operates after the accident and has to work its way by itself to the construction site by traversing through a number of obstacles to accomplish the task.
